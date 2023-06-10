@@ -12,7 +12,6 @@ This project is a C program that creates a simple shell on top of the Linux shel
 - [Introduction](#introduction)
 - [Features](#features)
 - [Requirements](#requirements)
-- [License](#license)
 
 ## Introduction
 
